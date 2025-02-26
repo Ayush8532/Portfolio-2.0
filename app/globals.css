@@ -38,4 +38,7 @@ body {
   .darkBgImage{
     @apply bg-[url('/blackGrid.jpg')];
   }
+  .highlight{
+    @apply bg-primary text-white px-5 rounded-[4px];
+  }
 }
